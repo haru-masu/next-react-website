@@ -1,15 +1,5 @@
-export default function Home() {
-  return (
-    <>
-      <header>HEADER</header> 
-      <main>
-        <div>
-          <h1>CUBE</h1>
-          <p>アウトプットしていくサイト</p>
-        </div>
-      </main>
+import Hero from 'components/hero'
 
-      <footer>FOOTER</footer>
-    </>
-  );
+export default function Home() {
+  return <Hero />
 }
