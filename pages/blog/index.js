@@ -1,10 +1,10 @@
 import Hero from 'components/hero'
 
-export default function Blog() {
+export default function Home() {
     return (
       <Hero
-        title="Blog"
-        subtitle="Recent Posts"
-     />
-    )
+        title="CUBE"
+        subtitle="アウトプットしていくサイト"
+      />
+  )
 }
