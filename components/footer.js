@@ -1,6 +1,5 @@
 import Logo from './logo'
-import style from 'styles/footer.module.css'
-import { Footer } from 'components/footer';
+import styles from 'styles/footer.module.css'
 
 export default function Footer() {
     return (
